@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1589251002 source:c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\main.cpp
+	<iostream>
+	"Player.h"
+	"MapCell.h"
+	"GameMap.h"
+
+1589231104 source:c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1589231032 c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\include\player.h
+
+1589230311 c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\include\mapcell.h
+
+1589230639 source:c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\src\mapcell.cpp
+	"MapCell.h"
+
+1589252247 c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\include\gamemap.h
+	"MapCell.h"
+	"Enemy.h"
+
+1589252760 source:c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+
+1589251896 c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\include\enemy.h
+
+1589252067 source:c:\users\carlos trejo\onedrive\documentos\cursos\platzi\c++\proyectofinalplatzi\src\enemy.cpp
+	"Enemy.h"
+
